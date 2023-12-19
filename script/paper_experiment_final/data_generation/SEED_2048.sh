@@ -1,0 +1,1 @@
+python ./scripts/extract_superpixels.py --num_superpixels 2048

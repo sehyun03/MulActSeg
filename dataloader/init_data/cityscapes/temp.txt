@@ -1,0 +1,2 @@
+leftImg8bit/train/krefeld/krefeld_000000_026580_leftImg8bit.png	gtFine/train/krefeld/krefeld_000000_026580_gtFine_labelIds.png	superpixel_seed/cityscapes/seeds_2048/train/label/krefeld_000000_026580.pkl
+leftImg8bit/train/krefeld/krefeld_000000_026580_leftImg8bit.png	gtFine/train/krefeld/krefeld_000000_026580_gtFine_labelIds.png	superpixel_seed/cityscapes/seeds_2048/train/label/krefeld_000000_026580.pkl
